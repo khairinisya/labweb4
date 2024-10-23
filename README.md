@@ -14,3 +14,13 @@
 ![Screenshot 2024-10-23 155602](https://github.com/user-attachments/assets/fa7afc1b-55d4-4ac0-ad07-fbab3f0b3688)
 ![Screenshot 2024-10-23 155811](https://github.com/user-attachments/assets/a3505fc1-6cbe-4da0-90f0-766fe185901f)
 
+
+PERTANYAAN DAN TUGAS
+1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
+![Screenshot 2024-10-23 175310](https://github.com/user-attachments/assets/c60a6c12-dac3-4556-95a2-9a1f0484f6e4)
+
+2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+![Screenshot 2024-10-23 175149](https://github.com/user-attachments/assets/8134728f-e65a-4763-a61d-2750c6a2dd54)
+
+
+
