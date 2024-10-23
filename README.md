@@ -9,22 +9,9 @@
 
 - MENGATUR CLEARFIX ELEMENT
 ![Img 2] ![GAMBAR2](https://github.com/user-attachments/assets/086bb59e-6ce4-499d-86bd-c417526b69f2)
+- HASIL
+![Img 2] ![HASIL2](https://github.com/user-attachments/assets/eed6393e-25c0-4e90-9e04-3a3135c92053)
 
+-MEMBUAT LAYOUT SEDERHANA
+![Img 2] ![GAMBAR3](https://github.com/user-attachments/assets/1fe33de3-7d0d-4a2a-86b9-bff24c4914fb)
 
-## 2. MENDEKLARASIKAN CSS INTERNAL
-- Gambar1 
-![Img 1]<img width="959" alt="Screenshot 3" src="https://github.com/user-attachments/assets/fd5b6514-3ac7-4200-96bf-96781f1405cd">
-- Gambar2
-![Img 2] <img width="959" alt="Screenshot 4" src="https://github.com/user-attachments/assets/1a217f2e-ec62-431f-82dd-9cc5cd1001ab">
-
-## 3. MENAMBAHKAN INLINE CSS
-- Gambar 1
-![Img 1]<img width="958" alt="Screenshot 5" src="https://github.com/user-attachments/assets/83f31407-3918-47d7-88cc-b94cfda7bf77">
-- Gambar 2
-![Img 2]<img width="953" alt="Screenshot 6" src="https://github.com/user-attachments/assets/faeb1f9e-f5aa-4dae-8965-1f31dc5a861e">
-
-## 4. MENAMBAH CSS SELECTOR
-- Gambar 1
-![Img 1]<img width="959" alt="Screenshot 7" src="https://github.com/user-attachments/assets/aea962fa-b6e2-4d54-a15a-65fe05fd8b45">
-- Gambar 2
-![Img 2]![Screenshot 2024-10-04 141111](https://github.com/user-attachments/assets/77887cea-57c5-4ecf-8197-640476d21f72)
