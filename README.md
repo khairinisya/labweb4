@@ -2,9 +2,9 @@
 ## Nama : Khairinisya Ani .A.
 ## NIM  : 312310365
 ## kelas :TI 23 A.4
-## 1. MEMBUAT DOKUMEN HTML.
-- Gambar1
-![Img 1]<img width="959" alt="Screenshot 1 png" src="https://github.com/user-attachments/assets/92cac98f-be85-46a0-ab66-eef121ede963">
+- MEMBUAT BOX ELEMENT
+![Img 1]<img <img width="959" alt="GAMBAR1" src="https://github.com/user-attachments/assets/bd3968ae-cdd3-41e5-826c-12aa8d4841ff">
+
 - Gambar2
 ![Img 2] <img width="957" alt="Screenshot 2" src="https://github.com/user-attachments/assets/6fe66550-bf1a-416a-96fe-9ceda2fe48c1">
 
