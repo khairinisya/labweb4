@@ -13,5 +13,11 @@
 ![Img 2] ![HASIL2](https://github.com/user-attachments/assets/eed6393e-25c0-4e90-9e04-3a3135c92053)
 
 -MEMBUAT LAYOUT SEDERHANA
+LANGKAH 1
 ![Img 2] ![GAMBAR3](https://github.com/user-attachments/assets/1fe33de3-7d0d-4a2a-86b9-bff24c4914fb)
+-HASIL
+![HASIL3](https://github.com/user-attachments/assets/66e576c6-7671-4d2d-9529-d7ce63266d66)
+
+LANGKAH 2
+
 
