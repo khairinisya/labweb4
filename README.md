@@ -4,9 +4,12 @@
 ## kelas :TI 23 A.4
 - MEMBUAT BOX ELEMENT
 ![Img 1]<img <img width="959" alt="GAMBAR1" src="https://github.com/user-attachments/assets/bd3968ae-cdd3-41e5-826c-12aa8d4841ff">
+- HASIL
+![Img 1]<img <img width="959" alt="HASIL1" src="https://github.com/user-attachments/assets/2d36d9af-b6d2-4a1e-9d60-e00e9a1d32a1">
 
-- Gambar2
-![Img 2] <img width="957" alt="Screenshot 2" src="https://github.com/user-attachments/assets/6fe66550-bf1a-416a-96fe-9ceda2fe48c1">
+- MENGATUR CLEARFIX ELEMENT
+![Img 2] ![GAMBAR2](https://github.com/user-attachments/assets/086bb59e-6ce4-499d-86bd-c417526b69f2)
+
 
 ## 2. MENDEKLARASIKAN CSS INTERNAL
 - Gambar1 
